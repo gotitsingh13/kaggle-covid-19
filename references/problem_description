@@ -1,0 +1,84 @@
+Call to Action
+
+We are issuing a call to action to the world's artificial intelligence experts to develop text and data
+mining tools that can help the medical community develop answers to high priority scientific questions.
+The CORD-19 dataset represents the most extensive machine-readable coronavirus literature collection available
+ for data mining to date.
+ This allows the worldwide AI research community the opportunity to apply text and
+ data mining approaches to find answers to questions within, and connect insights across, this content in
+ support of the ongoing COVID-19 response efforts worldwide.
+ There is a growing urgency for these approaches because of the rapid increase in coronavirus literature,
+ making it difficult for the medical community to keep up.
+
+
+ A list of our initial key questions can be found under the Tasks section of this dataset.
+ These key scientific questions are drawn from the NASEM’s SCIED (National Academies of Sciences,
+ Engineering, and Medicine’s Standing Committee on Emerging Infectious Diseases and 21st Century
+ Health Threats) research topics and the World Health Organization’s R&D Blueprint for COVID-19.
+
+Many of these questions are suitable for text mining, and we encourage researchers to develop text
+mining tools to provide insights on these questions.
+
+We are maintaining a summary of the community's contributions. For guidance on how to make your
+contributions useful, we're maintaining a forum thread with the feedback we're getting from the
+medical and health policy communities.
+
+
+R&D Blueprint
+https://www.who.int/blueprint/priority-diseases/key-action/Global_Research_Forum_FINAL_VERSION_for_web_14_feb_2020.pdf?ua=1
+
+An imperative for research to focus on actions that can save lives now.
+
+Eight immediate research actions were agreed as part of this Forum
+1.Mobilize research on rapid point of care diagnostics for use at the community level - this is critical to be able to quickly identify sick people, treat them and better estimate how widely the virus has spread.
+2.Immediately assess available data to learn what standard of care approaches from China and elsewhere are the most effective – there is an imperative to optimise standard of care given to patients at different stages of the disease and take advantages of all available technological innovations to improve survival and recovery.
+3.Evaluate as fast as possible the effect of adjunctive and supportive therapies. The global research community need to understand what other adjunctive treatments than currently being used we currently have at our disposal that may help with the standard of care provided to patients, including the quick evaluation of interventions such as steroids and high flow oxygen.
+4.Optimise use of protective equipment and other infection prevention and control measures in health care and community settings – It is critical to protect health care workers and the community from transmission and create a safe working environment
+5.Review all evidence available to identify animal host(s), to prevent continued spill over and to better understand the virus transmissibility in different contexts over time, the severity of disease and who is more susceptible to infection- Understanding transmission dynamics would help us appreciate the full spectrum of the disease, in terms of at risk groups, and
+conditions that make the disease more severe as well as the effectiveness of certain public health interventions.
+6.Accelerate the evaluation of investigational therapeutics and vaccines by using “Master Protocols”- Rapidly developing master protocols for clinical trials will accelerate the potential to assess what works and what does not, improve collaboration and comparison across different studies, streamline ethics review and optimise the evaluation of new investigational drugs, vaccines and diagnostics.
+7.Maintain a high degree of communication and interaction among funders so that critical research is implemented - Funders reiterated their current financial commitments to tackling this outbreak and agreed that the priorities agreed at the Forum would help to coordinate existing investments and inform mobilisation of additional resources in the coming days, weeks and months.
+8.Broadly and rapidly share virus materials, clinical samples and data for immediate public health purposes–It was agreed that virus materials, clinical samples and associated data should be rapidly shared for immediate public health purposes and that fair and equitable access to any medical products or innovations that are developed using the materials must be part of such sharing.
+
+
+
+Tasks
+
+
+What is known about transmission, incubation, and environmental stability?
+COVID-19 Open Research Dataset Challenge (CORD-19)
+
+
+What do we know about COVID-19 risk factors?
+COVID-19 Open Research Dataset Challenge (CORD-19)
+
+What do we know about virus genetics, origin, and evolution?
+COVID-19 Open Research Dataset Challenge (CORD-19)
+
+
+What do we know about vaccines and therapeutics?
+COVID-19 Open Research Dataset Challenge (CORD-19)
+
+
+What has been published about medical care?
+COVID-19 Open Research Dataset Challenge (CORD-19)
+
+
+What do we know about non-pharmaceutical interventions?
+COVID-19 Open Research Dataset Challenge (CORD-19)
+
+
+Sample task with sample submission
+Help us understand how geography affects virality.
+
+
+What do we know about diagnostics and surveillance?
+COVID-19 Open Research Dataset Challenge (CORD-19)
+
+
+What has been published about ethical and social science considerations?
+COVID-19 Open Research Dataset Challenge (CORD-19)
+
+
+What has been published about information sharing and inter-sectoral collaboration?
+COVID-19 Open Research Dataset Challenge (CORD-19)

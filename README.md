@@ -20,7 +20,7 @@ Trained and serialized models; model predictions, or model summaries
 
 
 ## notebooks
-Jupyter notebooks. Namoing convention is a number (for ordering), the creator's initials, and a short '-' delimited descriptions, e.g. '1.0-gks-initial-data-exploration'
+Jupyter notebooks. Naming convention is a number (for ordering), the creator's initials, and a short '-' delimited descriptions, e.g. '1.0-gks-initial-data-exploration'
 
 
 ## references
@@ -67,21 +67,3 @@ Scripts to create exploratory and results oriented visualizations
 ### tox.ini
 tox file with settings for running tox; see tox.testrun.org
 
-
-# Note
-GitHub doesn't support pushing over the Git protocol, which is indicated by your use of the URL beginning git://. As the error message says, if you want to push, you should use either the SSH URL git@github.com:my_user_name/my_repo.git or the "smart HTTP" protocol by using the https:// URL that GitHub shows you for your repository.
-
-If you want to change the URL of origin, you can just do:
-
-git remote set-url origin git@github.com:my_user_name/my_repo.git
-
-or
-
-git remote set-url origin https://github.com/my_user_name/my_repo.git
-
-
-
-git remote set-url origin https://gotitsingh13@github.com/project_templates.git
-
-
-git@github.com:gotitsingh13/project_templates.git
