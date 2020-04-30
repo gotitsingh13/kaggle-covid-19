@@ -1,0 +1,23 @@
+Metadata is available in condensed format
+
+17k have PDFs
+
+PMC (pubmed central) sources papers -- more than one pdfs associated under that paper
+    -- one or more pdf corresponding to the main article
+    -- possibly additional pdfs corresponding to supporting materials
+
+13K PDFs with full text with has_pdf_parse, has_pmc_xml_parse
+some papers have both PMC XML and PDF parses
+
+medRxiv - the preprint server for Health Sciences, operated by Cold Spring Harbor Laboratory,
+          a research and educational institution.
+bioRxiv - the preprint server for biology, operated by Cold Spring Harbor Laboratory,
+          a research and educational institution.
+
+CZI chan zukerberg institute
+
+	- 'pmcid': populated for all PMC paper records (27337 non null)
+	- 'doi': populated for all BioRxiv/MedRxiv paper records and most of the other records (26357 non null)
+	- 'WHO #Covidence': populated for all CZI records and none of the other records (1236 non null)
+	- 'pubmed_id': populated for some of the records
+	- 'Microsoft Academic Paper ID': populated for some of the records
